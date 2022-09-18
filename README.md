@@ -1,2 +1,2 @@
 # basic-recipes
-Basic recipe website.
+Basic recipe website to improve my HTML skills.
